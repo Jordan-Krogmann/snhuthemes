@@ -1,11 +1,10 @@
 Package: snhuthemes
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Southern New Hampshire University Themes
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
+Author: Jordan Krogmann
+Maintainer: The package maintainer <jordanckrogmann@gmail.com>
+Description: A collection of brand approved markdown documents
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true
