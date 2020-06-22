@@ -30,7 +30,7 @@ ggplot(mtcars, aes(wt, mpg)) +
     ) 
 ```
 
-![]('./imgs/ggplot2_theme_plt.png')
+![](./imgs/ggplot2_theme_plt.png)
 
 
 SNHU theme
