@@ -18,4 +18,3 @@ devtools::install_github("Jordan-Krogmann/snhuthemes")
 
 ## Plot Theme
 
-
