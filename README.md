@@ -14,3 +14,8 @@ devtools::install_github("Jordan-Krogmann/snhuthemes")
 ## Templates
 
 + SNHU Analysis Document (HTML)
+
+
+## Plot Theme
+
+
