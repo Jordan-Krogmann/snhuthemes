@@ -1,8 +1,6 @@
 # snhuthemes <img src="./imgs/snhu-logo.png" align="right" width="120" />
 
-
 Southern New Hampshire University brand approved templates
-
 
 ## Installation
 
@@ -18,10 +16,10 @@ devtools::install_github("Jordan-Krogmann/snhuthemes")
 
 ## Plot Theme
 
-Regular ggplot2 theme
+default `ggplot2` theme
 
-```r
-ggplot(mtcars, aes(wt, mpg)) +
+``` r
+ggplot(data = mtcars, aes(x = wt, y = mpg)) +
     geom_point(aes(color = as.factor(cyl))) +
     facet_grid(~ cyl) + 
     labs(
@@ -33,10 +31,10 @@ ggplot(mtcars, aes(wt, mpg)) +
 ![](./imgs/ggplot2_theme_plt.png)
 
 
-SNHU theme
+Adding `theme_snhu()` to existing `ggplot` code.
 
-```r
-ggplot(mtcars, aes(wt, mpg)) +
+``` r
+ggplot(data = mtcars, aes(x = wt, y = mpg)) +
     geom_point(aes(color = as.factor(cyl))) +
     facet_grid(~ cyl) + 
     labs(
@@ -45,3 +43,6 @@ ggplot(mtcars, aes(wt, mpg)) +
     ) + 
     theme_snhu()
 ```
+
+![](./imgs/snhu_theme_plt.png)
+
