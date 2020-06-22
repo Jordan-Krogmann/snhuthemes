@@ -18,3 +18,30 @@ devtools::install_github("Jordan-Krogmann/snhuthemes")
 
 ## Plot Theme
 
+Regular ggplot2 theme
+
+```r
+ggplot(mtcars, aes(wt, mpg)) +
+    geom_point(aes(color = as.factor(cyl))) +
+    facet_grid(~ cyl) + 
+    labs(
+      title = "An Amazing Plot",
+      subtitle = "What can the subtitle tell us?"
+    ) 
+```
+
+![]("./imgs/ggplot2_theme_plt.png")
+
+
+SNHU theme
+
+```r
+ggplot(mtcars, aes(wt, mpg)) +
+    geom_point(aes(color = as.factor(cyl))) +
+    facet_grid(~ cyl) + 
+    labs(
+      title = "An Amazing Plot",
+      subtitle = "What can the subtitle tell us?"
+    ) + 
+    theme_snhu()
+```
