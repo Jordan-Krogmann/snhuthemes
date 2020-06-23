@@ -23,6 +23,7 @@ The `rmarkdown` templates have a css file that they sit on top of to make them o
     + then select __SNHU Analysis Document (HTML)__
 2. Fill with meaningful analysis and the render 
 
+
 ![](./imgs/template_4.png)
 
 
