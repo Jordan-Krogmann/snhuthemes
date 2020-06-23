@@ -24,7 +24,7 @@ The `rmarkdown` templates have a css file that they sit on top of to make them o
 2. Fill with meaningful analysis and the render 
 
 
-![](./imgs/template_4.png)
+![](./imgs/template_4.PNG)
 
 
 <br>
