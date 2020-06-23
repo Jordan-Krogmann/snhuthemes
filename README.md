@@ -22,7 +22,9 @@ make them on brand.
       - then select **SNHU Analysis Document (HTML)**
 2.  Fill with meaningful analysis and the render
 
-![](./imgs/template_4.PNG)
+|       Find Template        |      Rendered output       |
+| :------------------------: | :------------------------: |
+| ![](./imgs/template_3.PNG) | ![](./imgs/template_4.PNG) |
 
 <br> <br>
 
