@@ -5,7 +5,7 @@ date: "The Date"
 output:
   xaringan::moon_reader:
     lib_dir: libs
-    css: snhu-slide-style.css
+    css: xaringan-themer.css
     nature:
        ratio: "16:9"
        countIncrementalSlides: false
@@ -14,14 +14,18 @@ output:
     seal: false
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+# Slide 1
 
-## Adding an RMarkdown Template
 
-This file is what a user will see when they select your template. Make sure that you update the fields in the yaml header. In particular you will want to update the `output` field to whatever format your template requires.
 
-This is a good place to demonstrate special features that your template provides. Ideally it should knit out-of-the-box, or at least contain clear instructions as to what needs changing.
+---
 
-Finally, be sure to remove this message!
+# Slide 2
+
+
+
+
+
+
+
+
