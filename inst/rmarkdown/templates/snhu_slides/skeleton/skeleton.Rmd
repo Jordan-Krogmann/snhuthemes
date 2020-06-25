@@ -2,7 +2,16 @@
 title: "Template Title"
 author: "Your Name"
 date: "The Date"
-output: output_format
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css: snhu-slide-style.css
+    nature:
+       ratio: "16:9"
+       countIncrementalSlides: false
+    includes:
+      after_body: insert-logo.html
+    seal: false
 ---
 
 ```{r setup, include=FALSE}
