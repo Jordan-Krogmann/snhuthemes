@@ -5,7 +5,7 @@ date: "The Date"
 output:
   xaringan::moon_reader:
     lib_dir: libs
-    css: xaringan-themer.css
+    css: snhu-slides-theme.css
     nature:
        ratio: "16:9"
        countIncrementalSlides: false
