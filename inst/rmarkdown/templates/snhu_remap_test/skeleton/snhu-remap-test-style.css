@@ -3,37 +3,37 @@
  *     !! Southern New Hampshire University CSS template !!
  *
  * ------------------------------------------------------- */
- 
-#header { 
+
+#header {
     background: #23395b; /* Old browsers */
     color: #23395b;
-    align-items: center;
+    /*align-items: center;*/
     padding: 15px 15px;
 
-} 
+}
 h1.title {
   font-size: 38px;
   font-family: Oswald;
   color: #FFFFFF;
-  text-align: center;
+  /*text-align: center;*/
 }
 h3.subtitle {
   font-size: 30px;
   font-family: Oswald;
   color: #FFFFFF;
-  text-align: center;
+  /*text-align: center;*/
 }
 h4.author { /* Header 4 - and the author and data headers use this too  */
   font-size: 18px;
   font-family: Oswald;
   color: #FFFFFF;
-  text-align: center;
+  /*text-align: center;*/
 }
 h4.date { /* Header 4 - and the author and data headers use this too  */
   font-size: 18px;
   font-family: Oswald;
   color: #FFFFFF;
-  text-align: center;
+  /*text-align: center;*/
 }
 .abstract { /* Header 4 - and the author and data headers use this too  */
   font-size: 15px;
@@ -58,7 +58,7 @@ h1, h2, h3, h4, h5 {
   position:relative;
 }
 
-.infobox { 
+.infobox {
   padding: 1em 1em 1em 1em;
   margin-bottom: 1px;
   background: #e6f0ff;
