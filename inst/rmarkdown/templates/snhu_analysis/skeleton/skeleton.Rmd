@@ -6,7 +6,7 @@ date: "Updated: `r Sys.Date()`"
 abstract: "Your meaningful abstract"
 output:
   html_document: 
-    css: snhu-style.css
+    css: snhu-analysis-style.css
 ---
 
 ## Overview
