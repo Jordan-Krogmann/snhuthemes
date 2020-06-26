@@ -15,6 +15,11 @@ devtools::install_github("Jordan-Krogmann/snhuthemes")
 The `rmarkdown` templates have a css file that they sit on top of to
 make them on brand.
 
+1.  Go to create new R markdown
+      - select **From Template**
+
+![](./imgs/template_3.PNG)
+
 ### SNHU Analysis Document (HTML)
 
 1.  Go to create new R markdown
@@ -22,9 +27,29 @@ make them on brand.
       - then select **SNHU Analysis Document (HTML)**
 2.  Fill with meaningful analysis and the render
 
-|       Find Template        |      Rendered output       |
-| :------------------------: | :------------------------: |
-| ![](./imgs/template_3.PNG) | ![](./imgs/template_4.PNG) |
+![](./imgs/template_4.PNG)
+
+<br>
+
+### SNHU ReMap Testing Document (HTML)
+
+1.  Go to create new R markdown
+      - select **From Template**
+      - then select **SNHU ReMap Testing Document (HTML)**
+2.  Fill with meaningful analysis and the render
+
+![](./imgs/reamp.PNG)
+
+<br>
+
+### SNHU Slide Deck (HTML)
+
+1.  Go to create new R markdown
+      - select **From Template**
+      - then select **SNHU Slide Deck (HTML)**
+2.  Fill with meaningful analysis and the render
+
+![](./imgs/slide_2.PNG)
 
 <br> <br>
 
