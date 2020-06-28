@@ -13,10 +13,13 @@ devtools::install_github("Jordan-Krogmann/snhuthemes")
 ## Templates
 
 The `rmarkdown` templates have a css file that they sit on top of to
-make them on brand.
+make them on brand. The templates follow common analysis trope, so
+anything from an Analysis with a recommendation to a framework for A/B
+testing.
 
-1.  Go to create new R markdown
-      - select **From Template**
+1.  Go New File
+2.  Select create new **R markdown…**
+3.  Select **From Template**
 
 ![](./imgs/template_3.PNG)
 
