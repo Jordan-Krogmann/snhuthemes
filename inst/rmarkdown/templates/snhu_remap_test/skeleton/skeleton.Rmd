@@ -20,7 +20,7 @@ __Alternate Hypothesis:__
 
 ## Test Design
 
-__Department North Start:__
+__North Star:__
 
 __Testing Groups:__
 
