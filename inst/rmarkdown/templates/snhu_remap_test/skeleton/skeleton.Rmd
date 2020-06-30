@@ -6,13 +6,13 @@ date: "Updated: `r Sys.Date()`"
 output:
   html_document: 
     css: snhu-remap-test-style.css
-  includes:
-    after_body: insert-logo.html
+    include:
+      in_header: insert-logo.html
 ---
 
-## Overview <img src="sextant_hex.png" align="right" width="120" />
+## Overview 
 
-__Idea:__
+__Theory:__
 
 __Null Hypothesis:__
 
