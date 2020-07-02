@@ -3,14 +3,16 @@
  *     !! Southern New Hampshire University CSS template !!
  *
  * ------------------------------------------------------- */
- 
-#header { 
+
+@import url(https://fonts.googleapis.com/css?family=Oswald);
+
+#header {
     background: #23395b; /* Old browsers */
     color: #23395b;
     align-items: center;
     padding: 15px 15px;
 
-} 
+}
 h1.title {
   font-size: 38px;
   font-family: Oswald;
@@ -58,7 +60,7 @@ h1, h2, h3, h4, h5 {
   position:relative;
 }
 
-.infobox { 
+.infobox {
   padding: 1em 1em 1em 1em;
   margin-bottom: 1px;
   background: #e6f0ff;
