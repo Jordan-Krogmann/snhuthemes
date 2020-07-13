@@ -7,6 +7,8 @@ abstract: "Your meaningful abstract"
 output:
   html_document: 
     css: snhu-analysis-style.css
+    include:
+      in_header: insert-logo.html
 ---
 
 ## Overview
