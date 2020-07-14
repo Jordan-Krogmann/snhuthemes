@@ -3,7 +3,6 @@ title: "Southern New Hampshire University"
 subtitle: "Name of your analysis"
 author: "Your Name |  your.email@snhu.edu"
 date: "Updated: `r Sys.Date()`"
-abstract: "Your meaningful abstract"
 output:
   html_document: 
     css: snhu-analysis-style.css
