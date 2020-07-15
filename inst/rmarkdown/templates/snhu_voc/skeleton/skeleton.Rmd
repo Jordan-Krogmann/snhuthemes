@@ -1,0 +1,17 @@
+---
+title: "Southern New Hampshire University"
+subtitle: "Name of your analysis"
+author: "Your Name |  your.email@snhu.edu"
+date: "Updated: `r Sys.Date()`"
+output:
+  html_document: 
+    css: snhu-analysis-style.css
+    include:
+      in_header: insert-logo.html
+---
+
+## Overview
+
+## Context
+
+## Recommendation
