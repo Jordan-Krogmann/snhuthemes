@@ -8,8 +8,8 @@ theme_snhu <- function(base_size = 11,
                 base_family = base_family,
                 base_line_size = base_line_size) %+replace%
   theme(
-    plot.title = element_text(size = rel(1.2), face = "bold", hjust = 0.5, vjust = 2),
-    plot.subtitle = element_text(size = rel(1.05), face = "bold", hjust = 0.5, vjust = 1.5),
+    plot.title = element_text(size = rel(1.4), face = "bold", hjust = 0.5, vjust = 2),
+    plot.subtitle = element_text(size = rel(1.15), face = "bold", hjust = 0.5, vjust = 1.5),
     axis.title = element_text(face = "bold"),
     axis.text = element_text(),
     strip.background = element_rect(fill = "black"),
