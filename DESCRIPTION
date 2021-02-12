@@ -11,3 +11,4 @@ LazyData: true
 RoxygenNote: 7.1.1
 Imports: 
   ggplot2 (>= 3.3.2)
+  fontawesome (>= 0.1.0)
