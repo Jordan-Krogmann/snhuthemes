@@ -10,27 +10,40 @@ output:
       in_header: insert-logo.html
 ---
 
-## Overview 
+
+## Overview `r fontawesome::fa("binoculars")`
+
+Insert "Experiment Outcome" table here
 
 __Theory:__
 
-__Null Hypothesis:__
-
-__Alternate Hypothesis:__
-
-## Test Design
-
-__North Star:__
-
-__Testing Groups:__
-
-## Outcomes & Learnings
-
-__What happened:__
-
-__What did we learn:__
-
-__What next:__
+__Hypothesis:__
 
 
 
+## Test Design `r fontawesome::fa("flask")`
+
+__Test Metric:__ 
+
+__Test Setup Type:__ e.g. Split Test (A/B), Multivariate Test (A/B/C…n), etc.
+
+__Testing Groups:__ *List specifics of test & control groups...*
+
+## Outcomes & Learnings `r fontawesome::fa("chart-bar")`
+
+__Experiment Results__
+
+<br>
+
+__Learnings__
+
+<br>
+
+__Next Steps__
+
+Should always begin with ReMap's official recommendation, or "test outcome reason" (either *__Additional Experimentation__, __No Action__, or __Systematic Expansion__*, followed by any relevant details of the actual recommendation.
+
+
+## Glossary of Terms `r fontawesome::fa("journal-whills")`
+
+__`term we are defining`__ - Definition of the term.
