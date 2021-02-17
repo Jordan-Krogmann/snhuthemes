@@ -1,4 +1,10 @@
-
+#' Theme SNHU
+#'
+#' Theme inspired by Southern New Hampshire University's Brand Guide
+#'
+#' @inheritParams ggplot2::theme_minimal
+#' @export
+#'
 theme_snhu <- function(base_size = 11,
                        base_family = "",
                        base_line_size = base_size / 170,
@@ -19,3 +25,13 @@ theme_snhu <- function(base_size = 11,
     complete = TRUE
   )
 }
+
+
+# plot.title.position = "plot",
+# plot.title = element_markdown(size = 18),
+# plot.subtitle = element_markdown(size = 14),
+# plot.background = element_rect(fill = "#efefef", color = "#efefef"),
+# legend.title = element_blank(),
+# legend.position = "bottom",
+# axis.text = element_text(color = "grey30"),
+# text = element_text(color = "black")
